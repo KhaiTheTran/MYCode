@@ -4,6 +4,7 @@
 # Computer Science
 # UW Seattle
 # 11/27/2017
+#Python 2.7
 
 """ExtraHop Programming Problem
 
@@ -31,11 +32,11 @@ is:
 8 T Y U I O P A S
 
 ...then the longest word from the list that can be produced using the rules is
-“fortran”, by starting at the ‘F’ at position (5, 4), and moving to (4, 6), then
+â€œfortranâ€, by starting at the â€˜Fâ€™ at position (5, 4), and moving to (4, 6), then
 (3, 4), (1, 3), back to (3, 4) and then (4, 2) and finally (6,1). Again, note
 that the match is case-insensitive, and that grid positions can be reused.
 
-Create a list of words found in Shakespeare’s early comedy, Love’s Labour’s
+Create a list of words found in Shakespeareâ€™s early comedy, Loveâ€™s Labourâ€™s
 Lost (text available at http://shakespeare.mit.edu/lll/full.html). Make sure to
 remove punctuation and ignore case when generating the word list. What is the
 output of your function using this word list on the grid below?
